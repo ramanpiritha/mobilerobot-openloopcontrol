@@ -126,7 +126,6 @@ Insert image here
 
 ## MobileRobot Movement Video:
 
-
 https://youtu.be/AEPxrGjeM18?si=xIFC1maQlvaobrt8
 
 ## Result:
